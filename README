@@ -1,0 +1,4 @@
+HTTP-JSON-Validator
+===================
+
+This project provides a simple HTTP endpoint which validates POSTing of JSON content.
